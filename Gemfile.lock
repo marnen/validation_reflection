@@ -1,7 +1,8 @@
 PATH
   remote: .
   specs:
-    validation_reflection (1.0.0)
+    marnen-validation_reflection (1.0.0.60320e6beb088808fd625a8d958dbd0d2661d494)
+      marnen-validation_reflection
 
 GEM
   remote: https://rubygems.org/
@@ -57,5 +58,5 @@ PLATFORMS
 
 DEPENDENCIES
   jeweler
+  marnen-validation_reflection!
   rake (< 10)
-  validation_reflection!
