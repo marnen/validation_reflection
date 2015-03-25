@@ -6,7 +6,7 @@
 
 Gem::Specification.new do |s|
   s.name = "marnen-validation_reflection"
-  s.version = "1.0.0.60320e6beb088808fd625a8d958dbd0d2661d494"
+  s.version = "1.0.0.60320e6beb088808fd625a8d958dbd0d2661d494.1"
 
   s.required_rubygems_version = Gem::Requirement.new("> 1.3.1") if s.respond_to? :required_rubygems_version=
   s.authors = ["Christopher Redinger", "Marnen Laibow-Koser"]
